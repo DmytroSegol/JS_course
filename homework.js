@@ -22,3 +22,4 @@ let savings = false;
 let statyaRashodov = prompt("Vvedite obyazatelnuju statju rasxodov");
 let voSkolkoOboydesya = prompt("Vo skolko oboydetsya");
 alert("bydjet na 1 den: "+voSkolkoOboydesya/30);
+
